@@ -8,6 +8,7 @@ LICENSE: [MIT](./license.md)
 ### Команды при работе с GIT:
 1. [git add](./add.md)
 2. [git init](./init.md)
+3. [git status](./status.md)
 ---
 
 Git Logo by Jason Long - https://git-scm.com/downloads/logos, is license: [CC by 3.0](https://creativecommons.org/licenses/by/3.0/)
