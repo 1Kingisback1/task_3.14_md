@@ -9,6 +9,8 @@ LICENSE: [MIT](./license.md)
 1. [git add](./add.md)
 2. [git init](./init.md)
 3. [git status](./status.md)
+4. [git config](./config.md)
+5. [git commit](./commit.md)
 ---
 
 Git Logo by Jason Long - https://git-scm.com/downloads/logos, is license: [CC by 3.0](https://creativecommons.org/licenses/by/3.0/)
