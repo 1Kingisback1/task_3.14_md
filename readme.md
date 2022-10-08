@@ -14,7 +14,8 @@ LICENSE: [MIT](./license.md)
 6. [git clone](./clone.md)
 7. [git merge](./merge.md)
 8. [git branch](./branch.md)
-
+9. [git cherry-pick](./cherry_pick.md)
+10. [git push](./gitpush.md)
 ---
 
 Git Logo by Jason Long - https://git-scm.com/downloads/logos, is license: [CC by 3.0](https://creativecommons.org/licenses/by/3.0/)
